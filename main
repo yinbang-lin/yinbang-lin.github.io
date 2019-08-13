@@ -1,0 +1,113 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Yinbang Lin's Personal Webpage</title>
+<style>
+li.big{line-height: 170%;}
+</style>
+<script type="text/javascript"
+  src="https://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML">
+</script>
+</head>
+
+<body background="2011082824804.jpg">
+<div style="width:960px" >
+<h1>Yinbang Lin</h1>
+<img src="yinbang.jpg" style="width:304px;height:228px;">
+<hr>
+<table>
+	<tr>
+		<td>Address:</td>
+		<td>Yau Mathematical Sciences Center</td>
+	</tr>
+
+	<tr>
+		<td></td>
+		<td>Tsinghua University</td>
+	</tr>
+
+	<tr>
+		<td></td>
+		<td>201 Jingzhai </td>
+	</tr>
+
+	<tr>
+		<td></td>
+		<td>Beijing, 100084</td>
+	</tr>
+
+	<tr>
+		<td>E-mail:</td>
+		<td><a href="mailto:yinbang.lin@icloud.com?Subject=" target="_top">yinbang.lin@icloud.com</a></td>
+	</tr>
+</table>
+<hr>
+
+<p>Here is my <a href="cv_may_2016.pdf">CV</a>.</p>
+<hr>
+
+<h2>Research</h2>
+<p>I am currently a post-doc at Yau Mathematical Sciences Center, Tsinghua University, under the supervision of Baosen Wu. My reserch interests are in moduli of sheaves and enumerative geometry. I am particularly interested in moduli spaces of stable pairs. I got my PhD at Northeastern University under the supervision of Professor <a href="http://www.northeastern.edu/alina/">Alina Marian</a>.</p>
+<p>Here are my publications and projects.</p>
+	<!--<h3>Preprints</h3>-->
+		<ol>
+			<li class="big"><em> Intersection theory on the moduli space of stable pairs on </em>\(\mathbb P^1\times E\), in progress.</li>
+
+      <li class="big"><em> Picard groups of moduli spaces of higher rank sheaves on algebraic surfaces </em>, in progress, joint with Jun Li, Howard Nuer, and Xiaolei Zhao.</li>
+
+      <li class="big"><em> Determinant line bundles on the moduli of stable pairs</em>, preprint.</li>
+
+      <li class="big"><em> A note on 1-cycles on the moduli space of rank 2 bundles over a curve</em>, preprint, joint with Duo Li and Xuanyu Pan.</li>
+
+			<!--li class="big"><em> Euler characteristics of moduli spaces of stable pairs on K3 surfaces</em>, <!--a href="https://myfiles.neu.edu/lin.yinb/personal_website/euler_char.pdf"--><!--preprint--><!--/a--><!--/li-->
+
+			<li class="big"><em>Moduli spaces of stable pairs</em>, Pacific Journal of Mathematics 294(2018), no. 1, 123-158<!--<a href="http://arxiv.org/abs/1512.03091">http://arxiv.org/abs/1512.03091</a>-->.</li>
+
+			<li class="big"><em> Nef cones of Hilbert scheme of points on surfaces</em>, joint with B. Bolognese et al., Algebra Number Theory 10 (2016), no. 4, 907-930.</a>.</li>
+
+		</ol>
+
+<hr>
+	<h2>Teaching</h2>
+	<p>From Fall 2010 to Spring 2016, I was a Teaching Assistant at Department of Mathematics, Northeastern University.
+
+
+	<h3>Past Teaching</h3>
+		<ul>
+			<li class="big">Spring 2016, Teaching Assistant, Probability and Statistics, MATH 3081.</li>
+
+			<li class="big">Fall 2015, Instructor, Mathematical Thinking, MATH 1215.</li>
+
+			<li class="big">Spring 2015, Instructor, Mathematical Thinking, MATH 1215.</li>
+
+			<li class="big">Fall 2014, Instructor, Mathematical Thinking, MATH 1215.</li>
+
+			<li class="big">Spring 2014, Teaching Assistant, Calculus 1, MATH 1241.</li>
+
+			<li class="big">Fall 2013, Instructor, Calculus 1, MATH 1241.</li>
+
+			<li class="big">Spring 2013, Teaching Assistant, Calculus 1, MATH 1241.</li>
+
+			<li class="big">Fall 2012 Teaching Assistant, Calculus 1, MATH 1241.</li>
+
+			<li class="big">Spring 2012, Recitation Leader, Calculus 3 for Sci/Engr, MATH 2321.</li>
+
+			<li class="big">Fall 2011, Recitation Leader, Calculus 3 for Sci/Engr, MATH 2321.</li>
+
+			<li class="big">Spring 2011, Teaching Assistant, Real Analysis, MATH 3150.</li>
+
+			<li class="big">Fall 2010, Teaching Assistant, Group Theory, MATH 3175.</li>
+		</ul>
+
+</div>
+
+<!-- hitwebcounter Code START -->
+<!--
+<img src="http://hitwebcounter.com/counter/counter.php?page=6216928&style=0006&nbdigits=5&type=ip&initCount=0" title="Counter" Alt="Counter"   border="0" >-->
+
+
+                                       <br/>
+
+</body>
+
+</html>

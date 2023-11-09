@@ -1,0 +1,84 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<meta charset="utf-8"/>
+<title>线性代数, 2023秋</title>
+<style>
+li.big{line-height: 170%;}
+</style>
+<script type="text/javascript"
+  src="https://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML">
+</script>
+</head>
+
+<body background="2011082824804.jpg">
+<div style="width:960px" >
+<h1>线性代数, 2023秋</h1>
+<hr>
+<table>
+		<tr>
+		<td>教师: </td>
+		<td><a href="http://yinbang-lin.github.io">林胤榜</a></td>
+	</tr>
+	<tr>
+		<td>上课地点: </td>
+		<td>北115, 或腾讯会议</td>
+	</tr>
+
+	<tr>
+		<td>上课时间: </td>
+		<td>周一下午1:30-3:05, 周三上午8:00-9:35</td>
+	</tr>
+  
+	<tr>
+		<td>课本: </td>
+		<td>Stein & Shakarchi, Complex Analysis</td>
+	</tr>
+  
+	<tr>
+		<td>电子邮件:</td>
+		<td><a href="mailto:yinbang_lin@tongji.edu.cn?Subject=" target="_top">yinbang_lin@tongji.edu.cn</a></td>
+	</tr>
+</table>
+<hr>
+
+<!--<p>Here is my <a href="cv_may_2016.pdf">CV</a>.</p>
+<hr> -->
+
+<h2>作业</h2>
+<!--<p>由于最近疫情原因, 提交作业请将PDF发送到2130906@tongji.edu.cn, 并抄送yinbang_lin@tongji.edu.cn. 作业与邮件题目: 姓名-学号-复变函数作业n.</p>-->
+  <ol>
+  <li>第二章作业: Exercises 1, 6, 7, 9, 11, 13, 14, 15  </li>
+  </ol>
+	
+<hr>	
+<ol>
+	<li>导言, 复数与复平面</li>		
+	<li>度量空间与度量拓扑</li>
+	<li>全纯函数, Cauchy-Riemann方程, </li>
+	<li>幂级数</li>
+	<li>沿曲线积分</li>
+	<li>Goursat定理，圆盘上的Cauchy定理</li>
+	<li><a href="L7 分块矩阵.pdf">分块矩阵</a></li>
+	<li>同伦与单连通区域, Cauchy定理</li>
+	<li>Cauchy积分公式与幂级数展开</li>
+	<li>Liouville定理, Morera定理, <a href="Lecture 10.pdf">讲义</a></li>
+	</ol>
+
+			
+
+
+
+<!-- hitwebcounter Code START -->
+
+<!--
+<img src="http://hitwebcounter.com/counter/counter.php?page=6216928&style=0006&nbdigits=5&type=ip&initCount=0" title="Counter" Alt="Counter"   border="0" >
+<br/>
+-->
+
+<!--
+<script type="text/javascript" id="clustrmaps" src="//cdn.clustrmaps.com/map_v2.js?d=k6tWbqxVRaAi-d06uN0Ue79crPr2LNfAba0oyfauKIA&cl=ffffff&w=a"></script>
+-->
+</body>
+
+</html>

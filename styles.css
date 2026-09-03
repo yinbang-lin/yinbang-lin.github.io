@@ -3,13 +3,13 @@
 @import url('https://fonts.googleapis.com/css2?family=Fraunces:ital,opsz,wght@0,9..144,300;0,9..144,400;0,9..144,500;0,9..144,600;1,9..144,400;1,9..144,500&family=Source+Serif+4:ital,wght@0,400;0,600;1,400&display=swap');
 
 :root{
-  --paper: #EFEDE6;
-  --paper-alt: #E6E3D8;
+  --paper: #EAF2FA;
+  --paper-alt: #DCEAF6;
   --ink: #21242C;
   --ink-soft: #5B5F6A;
   --accent: #3F6659;
   --accent-soft: #B9CCC2;
-  --rule: #CBC7BA;
+  --rule: #C6D6E6;
   --measure: 680px;
 }
 
@@ -50,8 +50,8 @@ a:hover{ color: var(--ink); }
 }
 
 .masthead img{
-  width: 108px;
-  height: 108px;
+  width: 168px;
+  height: 168px;
   object-fit: cover;
   border-radius: 2px;
   filter: grayscale(15%);
@@ -241,7 +241,7 @@ footer{
   body{ font-size: 16.5px; }
   .wrap{ padding: 3rem 1.15rem 3.5rem; }
   .masthead{ gap: 1.1rem; }
-  .masthead img{ width: 84px; height: 84px; }
+  .masthead img{ width: 120px; height: 120px; }
   nav.site ul{ gap: 1.2rem; flex-wrap: wrap; }
   .plain-list li{ flex-direction: column; gap: 0.15rem; }
   .plain-list .when{ flex: none; }
